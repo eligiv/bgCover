@@ -16,3 +16,4 @@ Create grid of squares that contain a lot of style effects, fast animation, full
 - Set your chosen element in "Message Mode", it's mean that the plugin will take your element from the current position to fixed position in the center of the site, the method of the script to do that, it's to make calculator of the pixeles of the user screen the the element size, the result is 100% element in the center of the site, the user can get down or up in the site and the element will stay in is poisiton.
 - Set tranistion to the Message Mode motion, it's good feature if do you want if you want to get the user's attention.
 - full events inidication, on start the effects, on end, on each of the rows, on each of the column, when user click our of your element block, on user click on your element block and etc.
+- You have an option to destroy the plugin effect on your element, you can do that via an object into the events.
