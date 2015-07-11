@@ -7,3 +7,9 @@ Create grid of squares that contain a lot of style effects, fast animation, full
 - Just imagine table element, you have there rows and columns, this script create background in advanced and quality table, the performance very high.
 - Set the number of the squares that do you want in each of the rows in your background
 - Set the number of the squares that do you want in each of the columns in your backgroud.
+- Choose the interval of the script runtime, for example, interval with value 0.2 showing each square in the speed of 200 milliseconds, the result is beautiful effect of the background steps, and this is just an one option.
+- Set the opacity of the background.
+- Set one or unlimit background colors, the script support string background and array backgrounds, the result is squares background by the order of the colors in the backgrounds array, for example, if you put 3 colors, the script will run about the array, when the script detect that he is on the last color, he will return to the first automatically.
+- Set the presentation of background, for now there is 3 ways: show the squares like a snake, in queue, show randomaly squares until all the squares are displayed, and the last, show by the first and the last rows in the same time.
+- Set the effect that do you want to be displayed with the squere, for example, fade effect or slide down \ right or flip effect, the effect working great, very fast, very quality, in high performance.
+- Set an option to see effect when the mouse over on any square, for example, flip the square back and see the first layer of the site.
